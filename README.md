@@ -1,5 +1,7 @@
 # Exploratory Data Analysis (EDA) Project
+## Project Presentation Video
 
+[Watch the EDA Project Presentation](https://drive.google.com/file/d/1nnYIZEW6MTyVYKToOvGarB202oBE6Hel/view)
 ## Student Information
 
 **Name:** ANINDO PRITOM BARUA  
