@@ -302,3 +302,7 @@ The project provides practical experience with Python-based data analysis, visua
 **ANINDO PRITOM BARUA**  
 **Registration Number:** 23BDS0328  
 **VIT Vellore
+
+## Project Presentation Video
+
+[Watch the EDA Project Presentation](https://drive.google.com/file/d/1nnYIZEW6MTyVYKToOvGarB202oBE6Hel/view)
